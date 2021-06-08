@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+
+    font-size: 62.5%;
+    
+}
+body{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.blogContainer{
+
+    border: 2px solid grey;
+    display: flex;
+    flex-direction: column;
+    height: 50rem;
+    padding: 1rem;
+    width: 80%;
+}
+
+.blogContainer p{
+
+    color: grey;
+}
+
+.blogContainer h1 {
+
+    font-size: 5rem;
+}
