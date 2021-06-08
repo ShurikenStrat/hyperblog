@@ -22,7 +22,7 @@ body{
     display: flex;
     flex-direction: column;
     height: 50rem;
-    padding: 1rem;
+    padding: 2rem;
     width: 80%;
 }
 
@@ -34,4 +34,5 @@ body{
 .blogContainer h1 {
 
     font-size: 5rem;
+    margin-bottom: 5rem;
 }
