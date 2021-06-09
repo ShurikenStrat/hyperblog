@@ -19,6 +19,7 @@ body{
 
 .header{
 
+    background-color: green;
     align-items: center;
     display: flex;
     font-size: 2rem;
@@ -30,7 +31,7 @@ body{
 .header h1{
 
 
-    color: blue;
+    color: white;
     margin-left: 2rem;
     
 }
@@ -41,6 +42,7 @@ body{
     display: flex;
     flex-direction: column;
     height: 50rem;
+    margin-top: 4rem;
     padding: 2rem;
     width: 80%;
 }
